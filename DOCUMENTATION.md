@@ -1,5 +1,5 @@
 # Assessment Task 2: Object-Oriented Design Project: Car Comparison Game
-## By Isabella Usacheva
+
 
 
 ## Part A - Data Selection and Game Attributes (10 marks)
@@ -58,10 +58,6 @@ The game is balanced as everyone picks a card at the same time, and they are eac
 
 ### Advanced Gameplay
 # PUT IN EXTRA RULES
-
-### Must include: 
-- *Explanation* of game balance
-- *Identification* of at least one unfair advantage and a proposed solution to fix it
 - *A modelled **structure chart***
 ## Part E - Interface and Card Design (5 marks)
 ![alt text](card_design.png)
@@ -74,8 +70,11 @@ The game is balanced as everyone picks a card at the same time, and they are eac
 You must **critically analyse** how your car comparison game immpacts individuals, society, and the environment. Using your designed system, respond to the following:
 ### 1. **Individual Impact**
 - How could your game influence user behaviour or decision-making?
+    ####    My game influences decision-making as it is a fast-paced, decision-based game that allows the user to challenge both themselves and others through picking a card at the start of the game, which means they will need to choose their cards wisely, and also picking the correct attribute from their card in order to win. Both of these actions require an appropriate skill set of decision-making and elimination processes. 
 - Could it encourage bias (e.g. favouring expensive or high-performance cars)?
+    ####    Yes, it could encourage bias, specifically towards those cars more economically sustainable, and those that perform generally well in terms of power and distance. 
 - What responsibilities do you have as a designer to present fair information?
+    ####    As a designer, you have to present fair information, otherwise the game is innacurate, unfair, and not a factually based game. 
 ### 2. **Social Impact**
 - How might your game reinforce stereotypes or inequalities (e.g. wealth, status, access to vehicles)?
     ####    My game might reinforce stereotypes regarding newer cars are 'better', or cars with a high km range/power are 'better', but it really depends on your wants/needs.
@@ -89,8 +88,11 @@ You must **critically analyse** how your car comparison game immpacts individual
 - Does your attribute selection promote or ignore environmental considerations?
     ####    Some of my attribute selection promotes environmental considerations, with the fuel type promoting it, and comfort rating/km range/price might influence a players decisions when buying a car, as a car that uses a better fuel type combined with good ratings in those categories might make a player want to buy the 'better' car, promoting more sustainable cars. However, the power and year launched do not matter as much.
 - What changes could you make to encourage more environmentally responsible thinking?
-    ####    Some changes I could make would be to implement a 'sustainability' attribute, or to add in more attributes that focus on sustainability. However, it makes the game less fun with less diversity, and it would feel more like an advertisement focused to promote environmental concerns, rather than a game.
+  ####    Some changes I could make would be to implement a 'sustainability' attribute, or to add in more attributes that focus on sustainability. However, it makes the game less fun with less diversity, and it would feel more like an advertisement focused to promote environmental concerns, rather than a game.
 ### 4. **Legal Considerations**
 - What legal issues could arise from using real-world car data (e.g. ownership, copyright, accuracy)?
+  ####    Many legal issues could arise from using real-world car data; The game could encounter problems due to copyright from using branded cars and models, or not acknowledge the owners of the cars/models, which could in turn lead to legal consequences. 
 - What responsibilities do you have when displaying or using data inspired by platforms like carsales.com.au
+  ####    When using data inspired from platforms like carsales.com.au, your responsibility could include fact-checking to make sure the information is factually correct when using it in your own projects, and you would also need to acknowledge that it came from another source. You also cannot publicise other people's personal information, whether that be the sellers contact  name, details, or something else.
 - How would you ensure your system avoids misleading users?
+  #### I would ensure my system avoids misleading users by lining out clear instructions, and providing as much information required to properly use the system. 
