@@ -81,7 +81,7 @@ You must **critically analyse** how your car comparison game immpacts individual
 - Does your system favour certain types of users or cars?
     ####    My system favours cars that are electric, as it is more straightforwards to win, and it also favours the cars that are newer, which are also (coincidentally) often electric.
 - How could your design be made more inclusive or fair?
-    ####    My design could be made more inclusive or fair by choosing attributes that aren't as 
+    ####    My design could be made more inclusive or fair by choosing attributes that are easier to compare with each other (total-wise), by picking simpler attributes, or by picking attributes that can't be seen as biased or harmful
 ### 3. **Environmental Impact**
 - How could your game influence attitudes towards fuel use, emissions, or sustainability?  
     ####   My game influences attitudes towards fuel use, as depending on the sustainability of the fuel, it's ranked from best to worst. If your card is electric, it's guaranteed to win a round, therefore integrating the idea that it is a better fuel type, enforcing using more sustainable fuels.  
