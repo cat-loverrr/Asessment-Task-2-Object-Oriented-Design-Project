@@ -1,3 +1,0 @@
-- UML standards for class diagram
-- look at carsales.com: pick attributes to make it fun, but keep it fair
-- standardised methodology and real screen sizes
