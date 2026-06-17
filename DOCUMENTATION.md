@@ -1,4 +1,4 @@
-# Assessment Task 2: Object-Oriented Design Project: Car Comparison Game
+# Assessment Task 2: Object-Oriented Design Project - Car Comparison Game
 
 
 
