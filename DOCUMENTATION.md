@@ -28,10 +28,7 @@
 - Deck
 - Player
 - Game
-### For each class:
-- List attributes
-- List methods
-- Describe its role in the system
+
 ## Part C - Class Diagram (10 marks)
 ![alt text](uml_class_diagram.jpeg)
 ## Part D - Game Mechanics Design (10 marks)
@@ -51,17 +48,15 @@ The game is balanced as everyone picks a card at the same time, and they are eac
 
 ### Advanced Gameplay
 # PUT IN EXTRA RULES
-- *A modelled **structure chart***
+### Structure chart
 ![alt text](structure_chart.jpeg)
 ## Part E - Interface and Card Design (5 marks)
+### Card Design
 ![alt text](card_design.png)
+### Storyboard Walkthrough
 ![alt text](storyboard_walkthrough.jpeg)
+### Wireframe
 ![alt text](wireframe.jpeg)
-- A basic game interface sketch
-### Must include:
-- **Labels** and **annotations** explaining design choices
-- Clear layout of information
-- **Storyboard** and/or walk through
 ## Part F - Social, Ethical, and Legal Implications (5 marks)
 You must **critically analyse** how your car comparison game immpacts individuals, society, and the environment. Using your designed system, respond to the following:
 ### 1. **Individual Impact**
