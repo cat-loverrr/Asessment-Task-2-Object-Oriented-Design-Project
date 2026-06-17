@@ -1,1 +1,1 @@
-### This is my Assessment Task 2, based on the theory around Object Oriented Programming (OOP). Everything is written down in [DOCUMENTATION.md](subdir/DOCUMENTATION.md.)
+### This is my Assessment Task 2, based on the theory around Object Oriented Programming (OOP). Everything is written down in [DOCUMENTATION.md](https://github.com/cat-loverrr/Asessment-Task-2-Object-Oriented-Design-Project/blob/main/DOCUMENTATION.md)
