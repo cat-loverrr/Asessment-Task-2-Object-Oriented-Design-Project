@@ -28,7 +28,36 @@
 - Deck
 - Player
 - Game
-
+### *Hand* Class
+#### Role in the System
+- Holds the cards in specific amounts and makes sure they're playable.
+#### Diagram
+![alt text](hand_class.jpeg)
+### *Car* Class
+#### Role in the System
+- Represents the real-world data that each card is based on.
+#### Diagram
+![alt text](car_class.jpeg)
+### *Card* Class
+#### Role in the System
+- Uses the data from the 'Car' class and transforms it into a playable card. Each card displays the stats that players compare.
+#### Diagram
+![alt text](card_class.jpeg)
+### *Deck* Class
+#### Role in the System
+- Stores and manages all the cards.
+#### Diagram
+![alt text](deck_class.jpeg)
+### *Player* Class
+#### Role in the System
+- Represents a human/AI player.
+#### Diagram
+![alt text](player_class.jpeg)
+### *Game* Class
+#### Role in the System
+- Controls the entire game flow; setup, turns, comparisons, etc.
+#### Diagram
+![alt text](game_class.jpeg)
 ## Part C - Class Diagram (10 marks)
 ![alt text](uml_class_diagram.jpeg)
 ## Part D - Game Mechanics Design (10 marks)
