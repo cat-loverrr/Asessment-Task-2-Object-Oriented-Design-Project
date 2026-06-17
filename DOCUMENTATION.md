@@ -33,14 +33,7 @@
 - List methods
 - Describe its role in the system
 ## Part C - Class Diagram (10 marks)
-### Create a UML class diagram including:
-- All classes
-- Attributes and methods
-- Relationships (association, aggregation, inheritance if used)
-### Must include:
-- Clear structure
-- Correct relationships
-- AT least 2 annotated design decisions
+![alt text](uml_class_diagram.jpeg)
 ## Part D - Game Mechanics Design (10 marks)
 ### *Explain*  how the game works:
 
@@ -59,8 +52,11 @@ The game is balanced as everyone picks a card at the same time, and they are eac
 ### Advanced Gameplay
 # PUT IN EXTRA RULES
 - *A modelled **structure chart***
+![alt text](structure_chart.jpeg)
 ## Part E - Interface and Card Design (5 marks)
 ![alt text](card_design.png)
+![alt text](storyboard_walkthrough.jpeg)
+![alt text](wireframe.jpeg)
 - A basic game interface sketch
 ### Must include:
 - **Labels** and **annotations** explaining design choices
@@ -96,3 +92,4 @@ You must **critically analyse** how your car comparison game immpacts individual
   ####    When using data inspired from platforms like carsales.com.au, your responsibility could include fact-checking to make sure the information is factually correct when using it in your own projects, and you would also need to acknowledge that it came from another source. You also cannot publicise other people's personal information, whether that be the sellers contact  name, details, or something else.
 - How would you ensure your system avoids misleading users?
   #### I would ensure my system avoids misleading users by lining out clear instructions, and providing as much information required to properly use the system. 
+
